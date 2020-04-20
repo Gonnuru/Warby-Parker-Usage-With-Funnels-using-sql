@@ -1,4 +1,4 @@
-# Usage funnels with Warby Parker
+﻿# Usage funnels with Warby Parker
 
 
 
@@ -16,6 +16,6 @@ Home Try-On Funnel:
 
 This project was a collaboration with Warby Parker’s Data Science team (thank you!) and uses fictional data.
 
-![]()
+![warby](https://github.com/Gonnuru/Warby-Parker-Usage-With-Funnels-using-sql/blob/master/warby.png)
 
   
